@@ -1,6 +1,6 @@
 # Hi there, I'm Ye Liu <img src='https://github.githubassets.com/images/mona-whisper.gif' width=48 height=48 />
 
-I'm a Ph.D. Student at the Department of Computing, The Hong Kong Polytechnic University.
+I'm a Ph.D. Candidate at the Department of Computing, The Hong Kong Polytechnic University.
 
 ### Research Interests
 
