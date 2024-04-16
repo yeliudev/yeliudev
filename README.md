@@ -4,9 +4,9 @@ I'm a Ph.D. Candidate at the Department of Computing, The Hong Kong Polytechnic 
 
 ### Research Interests
 
-- Object Detection & Instance Segmentation
-- High-Level Video Content Analysis
+- High-Level Video Content Analytics
 - Visual Knowledge Learning
+- Foundation Models
 
 ### GitHub Statistics
 
